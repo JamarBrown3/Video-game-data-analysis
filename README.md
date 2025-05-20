@@ -1,3 +1,4 @@
+# First JuptyerNotebook Data analysis
 I had decided as my first project to create a data analysis set that would allow me to fix a video game data set. 
 My hobby is around playing video games so I decided to choose a video game data set.
 In my juptyer notebooks I used html code to show my pandas, numpy, matplotlib, and seaborn program that I used
